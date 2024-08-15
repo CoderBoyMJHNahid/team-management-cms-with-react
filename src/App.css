@@ -1,0 +1,48 @@
+path.rc-progress-line-trail {
+  stroke-width: 4;
+}
+.recent_project_wrapper .heading {
+  margin-bottom: 15px;
+}
+nav {
+  transition: transform 0.3s ease-in-out;
+}
+
+button {
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.main {
+  display: flex;
+}
+.card_wrapper {
+  box-shadow: 0px 3px 13px 0px #808080;
+}
+.card_hover_content{
+  box-shadow: 0px 3px 13px 0px #808080;
+}
+.fc-button-group button {
+  background: transparent !important;
+  color: gray !important;
+  border-color: #dbdbdb !important;
+  text-transform: capitalize !important;
+}
+.fc-button-group button.fc-button-active {
+  background: #6993ff !important;
+  color: white !important;
+  border-color: #dbdbdb !important;
+}
+.fc .fc-button-primary:disabled {
+  background: #6993ff !important;
+  color: white !important;
+  border-color: #dbdbdb !important;
+}
+.fc-h-event{
+  background: #19c5bd !important;
+  color: white !important;
+  border-color: #19c5bd !important;
+}
